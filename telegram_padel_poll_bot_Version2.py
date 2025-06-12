@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # === Config ===
-TOKEN = '8163816887:AAGykMvQ9B1Y68M0BCgsHAYYynOdoFkab-k'  # Replace with your bot's token
+TOKEN = ''  # Replace with your bot's token
 VOTE_LIMIT = 8  # Max votes for "Yes, I'm in!"
 
 POLL_QUESTION = "Americano padel matcha."
